@@ -1,9 +1,7 @@
 ### 初めまして！✨
 
-![SynthwaveMiku](https://github.com/bidgeycodes/bidgeycodes/blob/main/SynthwaveMiku.png)
-
 <p align="center">
-  <img src="https://github.com/bidgeycodes/bidgeycodes/blob/main/SynthwaveMiku.png" alt="SynthwaveMiku" height="100">
+  <img src="https://github.com/bidgeycodes/bidgeycodes/blob/main/SynthwaveMiku.png" alt="SynthwaveMiku" height="400">
 </p>
 
 
