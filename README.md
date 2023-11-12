@@ -1,6 +1,6 @@
 ### 初めまして！✨
 
-### <a href="URL_REDIRECT" target="blank"><img align="center" src="[https://www.deviantart.com/marusama97/art/Hatsune-Miku-synthwave-Vocaloid-retrowave-692507102]" height="100" /></a>
+### <img src="https://www.deviantart.com/marusama97/art/Hatsune-Miku-synthwave-Vocaloid-retrowave-692507102" target="blank"><img align="center" height="100" /></a>
 
 
 
