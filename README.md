@@ -1,6 +1,6 @@
 ### 初めまして！✨
 
-### <a src="[https://www.deviantart.com/marusama97/art/Hatsune-Miku-synthwave-Vocaloid-retrowave-692507102](https://github.com/bidgeycodes/bidgeycodes/blob/main/SynthwaveMiku.png))"><img align="center" height="100" /></a>
+### <a src="(https://github.com/bidgeycodes/bidgeycodes/blob/main/SynthwaveMiku.png)"><img align="center" height="100" /></a>
 
 
 
