@@ -1,4 +1,4 @@
-### Hi there 👋
+### 初めまして！✨
 
 <!--
 **bidgeycodes/bidgeycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
