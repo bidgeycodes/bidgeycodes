@@ -1,4 +1,4 @@
-### 初めまして！✨
+### <p align="center" size="30">初めまして！✨</p>
 
 <p align="center">
   <img src="https://github.com/bidgeycodes/bidgeycodes/blob/main/SynthwaveMiku.png" alt="SynthwaveMiku" height="325">
